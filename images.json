@@ -1,0 +1,34 @@
+{
+  "imagesList":[
+					{
+						"name" : "Banner1.jpg"
+					},
+					{
+						"name" : "Banner2.jpg"
+					},
+					{
+						"name" : "Banner3.jpg"
+					},
+					{
+						"name" : "Banner4.jpg"
+					},
+					{
+						"name" : "Banner5.jpg"
+					},
+					{
+						"name" : "Banner6.jpg"
+					},
+					{
+						"name" : "Banner7.jpg"
+					},
+					{
+						"name" : "Banner8.jpg"
+					},
+					{
+						"name" : "Banner9.jpg"
+					},
+					{
+						"name" : "Banner10.jpg"
+					}
+				]
+}
