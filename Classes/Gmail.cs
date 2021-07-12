@@ -48,7 +48,7 @@ namespace WebApplicationBrookeAndCo.Classes
             client.Port = 587;
             client.EnableSsl = true;
             client.DeliveryMethod = SmtpDeliveryMethod.Network;
-            client.Credentials = new NetworkCredential("lachapelle.audrey.1989@gmail.com", "kerovischt2626");
+            client.Credentials = new NetworkCredential("lachapelle.audrey.1989@gmail.com", "PASSWORD");
             client.Timeout = 20000;
             try
             {
